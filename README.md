@@ -5,4 +5,4 @@
 - 📫 How to reach me : https://www.linkedin.com/in/sevil-jafarova-822913160/
 
 
-**💻 Machine Learning Projects **
+
