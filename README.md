@@ -5,4 +5,8 @@
 - 📫 How to reach me : https://www.linkedin.com/in/sevil-jafarova-822913160/
 
 
+### 📊 Data Projects
+
+[Machine Learning Projects:](https://github.com/sevilj/Machine-Learning)
+
 
