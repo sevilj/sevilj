@@ -10,3 +10,7 @@
 [Machine Learning Projects:](https://github.com/sevilj/Machine-Learning)
 
 
+[Exploratory Data Analaysis (EDA): Retail EDA using Jupyter](https://github.com/sevilj/Sparks)
+
+
+
